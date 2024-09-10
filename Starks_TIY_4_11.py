@@ -16,5 +16,5 @@ for pizza in pizzas:
     print(pizza)
 
 print("My friend's favorite pizzas are:")
-for friends_pizza in friends_pizzas:
-    print(friends_pizza)
+for pizza in friends_pizzas:
+    print(pizza)
